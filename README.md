@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Diego Ordenes</h1>
 <h3 align="center">Analyst programmer, dedicated to Front-End | Back-End web development.</h3>
 
-- 📫 How to reach me **daof.diego@gmail.com**
+- 🌱 What am I learning? **I am constantly studying every day to improve my programming skills and general computer knowledge.**
+
+- 📫 Contact me at my email: **daof.diego@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
